@@ -1,7 +1,5 @@
-import random 
-import time
-import datetime
-import os
+import random, time, datetime, os
+
 
 
 def process():
